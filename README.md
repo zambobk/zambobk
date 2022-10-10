@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zambobk
-- 👀 I’m interested in ...Automation testing
+- 👀 I’m interested in ...Automation and Manual Testing
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
